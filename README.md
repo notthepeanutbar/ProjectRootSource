@@ -21,9 +21,6 @@ It highlights the three critical layers of the analysis:
 
 ![Syria Complexity Framework](visuals/syria_framework.png)
 
-This image serves as a foundation for building layered models to better understand and analyze interconnected events.  
-Follow the progress and framework development: [Project RootSource Repository](https://github.com/dein-account/ProjectRootSource)
-
 ---
 
 ### Truth Layer - Perspectives and Biases
@@ -40,7 +37,7 @@ The Truth Layer is the first part of the framework. It analyzes different perspe
 - Cultural Contexts
 - Selective Reporting
 
-To see the implementation, check out the [truth_layer.py](./truth_layer.py) file.
+To see the implementation, check out the [truth_layer.py](code/truth_layer.py) file.
 
 ---
 
