@@ -23,3 +23,26 @@ It highlights the three critical layers of the analysis:
 
 This image serves as a foundation for building layered models to better understand and analyze interconnected events.  
 Follow the progress and framework development: [Project RootSource Repository](https://github.com/dein-account/ProjectRootSource)
+
+---
+
+### Truth Layer - Perspectives and Biases
+The Truth Layer is the first part of the framework. It analyzes different perspectives and biases that shape our understanding of events.
+
+**Included Perspectives:**
+1. Government Narrative
+2. Opposition Narrative
+3. International Media Perspective
+
+**Biases Addressed:**
+- Hidden Agendas
+- Media Spin
+- Cultural Contexts
+- Selective Reporting
+
+To see the implementation, check out the [truth_layer.py](./truth_layer.py) file.
+
+---
+
+#### What’s Next?
+The next step will focus on integrating the **Origin Layer** to analyze historical contexts and unintended consequences.
